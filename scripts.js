@@ -6,4 +6,5 @@ function computerPlay() {
     return answer;
 }
 
-computerPlay();
+temp = computerPlay();
+alert(temp);
